@@ -1,0 +1,7 @@
+﻿  gierka2.cpp
+C:\Users\adamo\source\repos\gierka2\gierka2.cpp(203,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 99 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  gierka2.vcxproj -> C:\Users\adamo\source\repos\gierka2\x64\Release\gierka2.exe
